@@ -11,7 +11,7 @@ Les services :
 
 ## Site web interne (staff)
 
-URL: https://staff.chocopoly.ch
+URL: https://staff.chocopoly.ch  
 Repo: https://github.com/chocopoly-epfl/chocopoly-site-staff
 
 Les données peuvent être visualisées via PHPMyAdmin: https://chocopoly-phpmyadmin.sys.chocopoly.ch (mdp sur le repo de secrets)
