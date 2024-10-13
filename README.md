@@ -4,6 +4,8 @@ Jusqu'à ce que Chocopoly devienne (très probablement) une commission de l'AGEP
 
 Une instance caprover est utilisé (permet de déployer des images docker facilement) : https://captain.sys.chocopoly.ch. Le mot de passe est disponible dans le repo de secrets.
 
+Pour modifier un repo, un simple push suffit et la CI met à jour le site automatiquement.
+
 Les services :
 * le site web public
 * le site web interne pour les staff (permet de s'enregistrer pour staffer à un évènement)
